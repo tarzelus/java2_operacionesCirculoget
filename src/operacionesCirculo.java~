@@ -1,7 +1,12 @@
+package java2_operacionesGeometricas.src.java2_operacionesCirculoget.src;
+
+
+// para importar y poder usar las clases de operacionesCirculo
+import java2_operacionesGeometricas.src.java2_operacionesCirculoget.src.*;
+
 import java.util.Scanner;
 
-
-public class Main {
+public class operacionesCirculo {
 
 	public static void main (String args[]) {
 

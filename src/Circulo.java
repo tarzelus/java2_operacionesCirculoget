@@ -1,6 +1,12 @@
+
+package java2_operacionesGeometricas.src.java2_operacionesCirculoget.src;
+
 /*
  * clase para calcular la circunferencia y el area del circulo
  */
+
+
+
 public class Circulo {
 
 double radio1=0;
